@@ -1,6 +1,6 @@
 <h1>JFlex Samples</h1>
-Simple basic examples in <b>JFlex</b><br><br>
-To run:<br><br> 
+Simple basic samples in <b>JFlex</b><br><br>
+To run:<br>   
 
   ```sh
   jflex FILE_NAME.flex
